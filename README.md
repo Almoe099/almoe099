@@ -1,7 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-  - Hey, I'm Almutasim Mohamed, an up-and-coming software engineer and graduate of App Academy with experience working with technologies such as React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS.
-  - I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
+- Hello, I'm Almutasim Mohamed, a burgeoning software engineer and proud graduate of App Academy. I bring expertise in a variety of technologies, including React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS. Continuously pushing the boundaries of my knowledge, I'm deeply immersed in the realms of JavaScript, TypeScript, ReactJS, and NodeJS, constantly refining my skills to stay at the forefront of innovation.
 
 <br>
 
@@ -33,27 +32,12 @@
 - ⚡ Fun fact: I enjoy participating in hackathons and coding competitions, where I get to challenge myself and learn from others while having fun building innovative solutions under pressure.
 
   <br>
-  
+<div align="center">
 
 </div>
 
-
-<!--
-**Almoe099/almoe099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
   ## My Tech Stack
+<div align="center">
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -72,7 +56,6 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
-
 
 
 <div>
