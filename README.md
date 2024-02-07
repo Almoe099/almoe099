@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
   - Hey, I'm Almutasim Mohamed, an up-and-coming software engineer and graduate of App Academy with experience working with technologies such as React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS.
   - I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
@@ -20,6 +20,23 @@
   </a>
 </p>
 
+<div>
+
+  ## About Me
+
+- 🔭 I’m currently working on enhancing my skills in backend development and exploring new technologies for building scalable and efficient software solutions.
+- 🌱 I’m currently learning about containerization technologies like Docker and Kubernetes to improve deployment processes and optimize infrastructure management.
+- 👯 I’m looking to collaborate on open-source projects related to web development or cloud computing. I'm passionate about contributing to projects that make a positive impact on the community.
+- 🤔 I’m looking for help with mastering advanced algorithms and data structures to solve complex problems more efficiently and effectively.
+- 💬 Ask me about software architecture, design patterns, and best practices for building robust and maintainable applications.
+- 📫 How to reach me: almoe099@gmail.com
+- ⚡ Fun fact: I enjoy participating in hackathons and coding competitions, where I get to challenge myself and learn from others while having fun building innovative solutions under pressure.
+
+  <br>
+  
+
+</div>
+
 
 <!--
 **Almoe099/almoe099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,20 +52,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<div align="center">
-  
-  ## My Activities
-  
-  <a href="https://github.com/Almoe099">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic5591&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-
-
-<div align="center">
 
   ## My Tech Stack
 
