@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+  - Hey, I'm Almutasim Mohamed, an up-and-coming software engineer and graduate of App Academy with experience working with technologies such as React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS.
+  - I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
+
+<br>
+
+<p align="center">
+  <a href="mailto:almoe099@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://almoe099.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"   
+   alt="Portfolio"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/almutasim-mohamed-17464b2b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
+<div>
 <!--
 **Almoe099/almoe099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,32 +37,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-
-
-
-<p align="center">
-  <a href="mailto:almoe099@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-  <a href="[(https://almoe099.github.io/Portfolio/)](https://almoe099.github.io/Portfolio/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"   
-   alt="Portfolio"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/almutasim-mohamed-17464b2b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-
-<div>
-
-  ## About Me
-
-  - Hey, I'm Almutasim Mohamed, an up-and-coming software engineer and graduate of App Academy with experience working with technologies such as React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS.
-  -  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, and **NodeJS**
 
   <br>
   
