@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="[(https://almoe099.github.io/Portfolio/)](https://portfolio-rho-beige-98.vercel.app/)" target="_blank">
+  <a href="[(https://almoe099.github.io/Portfolio/)](https://almoe099.github.io/Portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"   
    alt="Portfolio"/>
   </a>
