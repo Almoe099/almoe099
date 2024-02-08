@@ -21,7 +21,7 @@
 
 <div>
 
-  ## About Me
+  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 🔭 I’m currently working on enhancing my skills in backend development and exploring new technologies for building scalable and efficient software solutions.
 - 🌱 I’m currently learning about containerization technologies like Docker and Kubernetes to improve deployment processes and optimize infrastructure management.
