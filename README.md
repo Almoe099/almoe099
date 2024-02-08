@@ -1,10 +1,17 @@
-## Hi there 👋
+![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
 
-- Hello, I'm Almutasim Mohamed, a burgeoning software engineer and proud graduate of App Academy. I bring expertise in a variety of technologies, including React/Redux, JavaScript, Ruby/Rails, Express, HTML, and CSS. Continuously pushing the boundaries of my knowledge, I'm deeply immersed in the realms of JavaScript, TypeScript, ReactJS, and NodeJS, constantly refining my skills to stay at the forefront of innovation.
+<h1 align="center">Hi there 👋</h1>
+
+
+<picture>  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBraHg4aXBncTRwb25hOXdseWV4Z3c5cW12ejM2NXRodmgwNnV5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="animated">
+
+
+- Hello, I'm Almutasim Mohamed, a Full-Stack software engineer and graduate of App Academy. With expertise in a variety of technologies, I continually push the boundaries of my knowledge. Immersed in the realms of code, I continuously refine my skills to stay at the forefront of innovation.
+
+
 
 <br>
-
-<p align="center">
+<p align="left">
   <a href="mailto:almoe099@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -26,10 +33,9 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🔭 I’m currently working on enhancing my skills in backend development and exploring new technologies for building scalable and efficient software solutions.
-- 🌱 I’m currently learning about containerization technologies like Docker and Kubernetes to improve deployment processes and optimize infrastructure management.
+- 🌱 I'm currently learning about new frameworks to further increase my understanding of modern software development practices and expand my toolkit as a software engineer.
 - 👯 I’m looking to collaborate on open-source projects related to web development or cloud computing. I'm passionate about contributing to projects that make a positive impact on the community.
 - 🤔 I’m looking for help with mastering advanced algorithms and data structures to solve complex problems more efficiently and effectively.
-- 💬 Ask me about software architecture, design patterns, and best practices for building robust and maintainable applications.
 - 📫 How to reach me: almoe099@gmail.com
 
   <br>
