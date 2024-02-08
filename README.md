@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="MasterHead">
+</p>
 
 <h1 align="center">Hi there 👋</h1>
 
