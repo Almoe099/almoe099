@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="MasterHead">
 </p>
+![Snake animation](https://github.com/{{Almoe099}}/{{Almoe099}}/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi there 👋</h1>
 
